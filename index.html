@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    
+    <meta charset="utf-8">  
+    <title>Todo List App </title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Iconscout Link For Icons -->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+  </head>
+  <body>
+    
+    <div class="wrapper">
+      <div class="heading">
+        <h2 class="title">
+          <span class="title-word title-word-1">TO</span>
+          <span class="title-word title-word-2">DO</span>
+          <span class="title-word title-word-3">LIST</span>
+        </h2>
+      <div class="task-input">
+        <input type="text" placeholder="Add a new task">
+        <button><i class="fas fa-plus"></i></button>
+      </div>
+      <div class="controls">
+        <div class="filters">
+          <span class="active" id="all">All</span>
+          <span id="pending">Pending</span>
+          <span id="completed">Completed</span>
+        </div>
+        <button class="clear-btn">Clear All</button>
+      </div>
+      <ul class="task-box"></ul>
+      
+    </div>
+
+    <script src="script.js"></script>
+
+  </body>
+</html>
