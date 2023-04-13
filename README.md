@@ -1,4 +1,4 @@
-# TO-DO-LIST
+# TO-DO-LIST-USING-HTML-CSS-AND-JAVASCRIPT
 
 It is a list of the tasks that you have to do, or things that you want to do.
 To design a To-Do List we have used HTML,CSS and JavaScrpit.
