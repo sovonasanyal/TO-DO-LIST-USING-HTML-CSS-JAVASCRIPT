@@ -12,6 +12,4 @@ Knowledge of HTML, CSS and Javascript.
 * After a task is over you can delete the task
 * It also comes with a "Clear All" button so that you are able to clear all your tasks
 
-# Here's how it will look
-![Screenshot 2023-04-13 214500](https://user-images.githubusercontent.com/122288168/231821532-8959501c-ee56-45c7-9bff-70130b92e777.jpg)
 
